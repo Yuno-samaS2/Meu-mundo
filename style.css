@@ -1,0 +1,14 @@
+.introducao{
+    background-color: black;
+    color: purple;
+    display: flex;
+padding: 24px 0;
+}
+
+.section1{ 
+    background-color: rebeccapurple;
+}
+
+.section2{
+    background-color: black;
+}
